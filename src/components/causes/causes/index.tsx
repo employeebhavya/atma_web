@@ -1,7 +1,7 @@
 import Breadcrumb from "@/components/common/Breadcrumb";
-import FooterOne from "@/layout/footers/FooterOne";
 import HeaderOne from "@/layout/headers/HeaderOne";
 import CauseArea from "./CauseArea";
+import FooterTwo from "@/layout/footers/FooterTwo";
 
 const Causes = () => {
   return (
@@ -11,7 +11,7 @@ const Causes = () => {
         <Breadcrumb page_title="Our Causes" page_list="Causes" style={false} />
         <CauseArea />
       </main>
-      <FooterOne />
+      <FooterTwo />
     </>
   );
 };
