@@ -11,7 +11,6 @@ const EventDetails = () => {
       <main>
         <Breadcrumb page_title="Our Events Slider" page_list="Event" />
         <EventDetailsArea />
-        <Brand style={true} />
       </main>
       <FooterTwo />
     </>

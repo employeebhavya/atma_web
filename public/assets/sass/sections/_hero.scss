@@ -91,3 +91,9 @@
     opacity: 0.6;
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .bgs-cover {
+    background-position: 80%;
+  }
+}

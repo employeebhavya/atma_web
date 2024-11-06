@@ -451,7 +451,7 @@
     max-width: 100%;
   }
   .navbar-bg {
-    padding: 15px 42px;
+    padding: 8px 42px;
     @include res-bl(xs) {
       @include gapLR(padding, 25px);
       .search-bar-btn {
